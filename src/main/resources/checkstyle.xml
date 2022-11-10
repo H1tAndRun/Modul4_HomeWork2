@@ -133,7 +133,7 @@
         <module name="MethodParamPad"/>
         <module name="NoWhitespaceAfter"/>
         <module name="NoWhitespaceBefore"/>
-        <module name="OperatorWrap"/>
+       <!-- <module name="OperatorWrap"/>-->
         <module name="ParenPad"/>
         <module name="TypecastParenPad"/>
         <module name="WhitespaceAfter"/>
@@ -160,7 +160,7 @@
         <module name="IllegalInstantiation"/>
         <module name="InnerAssignment"/>
         <!--        <module name="MagicNumber"/>-->
-        <module name="MissingSwitchDefault"/>
+       <!-- <module name="MissingSwitchDefault"/>-->
         <module name="MultipleVariableDeclarations"/>
         <module name="SimplifyBooleanExpression"/>
         <module name="SimplifyBooleanReturn"/>
